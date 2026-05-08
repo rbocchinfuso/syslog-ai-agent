@@ -1,0 +1,11 @@
+# Syslog Analyzer AI Agent
+# This project has no external dependencies and uses only the Python standard library.
+# The following packages are listed for completeness but are not required to be installed.
+
+# Optional: For enhanced JSON formatting (not required, stdlib json is used)
+# json5
+
+# Optional: For advanced pattern matching (not required, stdlib re is used)
+# regex
+
+# Note: Run `python3 syslog_analyzer.py` directly. No pip install needed.
